@@ -1,0 +1,155 @@
+
+LINE 411 
+
+<div id="certificates" class="section wb">
+        <div class="container">
+            <div class="section-title text-left">
+                <h3>Certificates</h3>
+                <p>We thanks for all our awesome certificates! There are hundreds of our happy customers! </p>
+            </div><!-- end title -->
+
+            <div class="row">
+                <div class="col-md-12 col-sm-12">
+                    <div class="testi-carousel owl-carousel owl-theme">
+                        <div class="certificates clearfix">
+                            <div class="desc">
+                                <h3><i class="fa fa-quote-left"></i> Wonderful Support!</h3>
+                                <p class="lead">They have got my project on time with the competition with a sed highly skilled, and experienced & professional team.</p>
+                            </div>
+                            <div class="testi-meta">
+                                <img src="uploads/testi_01.png" alt="" class="img-fluid alignleft">
+                                <h4>James Fernando <small>- Manager of Racer</small></h4>
+                            </div>
+                            <!-- end testi-meta -->
+                        </div>
+                        <!-- end certificates -->
+
+                        <div class="certificates clearfix">
+                            <div class="desc">
+                                <h3><i class="fa fa-quote-left"></i> Awesome Services!</h3>
+                                <p class="lead">Explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you completed.</p>
+                            </div>
+                            <div class="testi-meta">
+                                <img src="uploads/testi_02.png" alt="" class="img-fluid alignleft">
+                                <h4>Jacques Philips <small>- Designer</small></h4>
+                            </div>
+                            <!-- end testi-meta -->
+                        </div>
+                        <!-- end certificates -->
+
+                        <div class="certificates clearfix">
+                            <div class="desc">
+                                <h3><i class="fa fa-quote-left"></i> Great & Talented Team!</h3>
+                                <p class="lead">The master-builder of human happines no one rejects, dislikes avoids pleasure itself, because it is very pursue pleasure. </p>
+                            </div>
+                            <div class="testi-meta">
+                                <img src="uploads/testi_03.png" alt="" class="img-fluid alignleft">
+                                <h4>Venanda Mercy <small>- Newyork City</small></h4>
+                            </div>
+                            <!-- end testi-meta -->
+                        </div>
+                        <!-- end certificates -->
+                        <div class="certificates clearfix">
+                            <div class="desc">
+                                <h3><i class="fa fa-quote-left"></i> Wonderful Support!</h3>
+                                <p class="lead">They have got my project on time with the competition with a sed highly skilled, and experienced & professional team.</p>
+                            </div>
+                            <div class="testi-meta">
+                                <img src="uploads/testi_01.png" alt="" class="img-fluid alignleft">
+                                <h4>James Fernando <small>- Manager of Racer</small></h4>
+                            </div>
+                            <!-- end testi-meta -->
+                        </div>
+                        <!-- end certificates -->
+
+                        <div class="certificates clearfix">
+                            <div class="desc">
+                                <h3><i class="fa fa-quote-left"></i> Awesome Services!</h3>
+                                <p class="lead">Explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you completed.</p>
+                            </div>
+                            <div class="testi-meta">
+                                <img src="uploads/testi_02.png" alt="" class="img-fluid alignleft">
+                                <h4>Jacques Philips <small>- Designer</small></h4>
+                            </div>
+                            <!-- end testi-meta -->
+                        </div>
+                        <!-- end certificates -->
+
+                        <div class="certificates clearfix">
+                            <div class="desc">
+                                <h3><i class="fa fa-quote-left"></i> Great & Talented Team!</h3>
+                                <p class="lead">The master-builder of human happines no one rejects, dislikes avoids pleasure itself, because it is very pursue pleasure. </p>
+                            </div>
+                            <div class="testi-meta">
+                                <img src="uploads/testi_03.png" alt="" class="img-fluid alignleft">
+                                <h4>Venanda Mercy <small>- Newyork City</small></h4>
+                            </div>
+                            <!-- end testi-meta -->
+                        </div><!-- end certificates -->
+                    </div><!-- end carousel -->
+                </div><!-- end col -->
+            </div><!-- end row -->
+        </div><!-- end container -->
+    </div><!-- end section -->
+
+
+
+
+    <div class="row">
+                <div class="col-md-4">
+                    <div class="services-inner-box">
+                        <div class="ser-icon">
+                            <i class="flaticon-seo"></i>
+                        </div>
+                        <h2>Web Development</h2>
+                        <p>No matter what kind of website you need. I bet I would be able to do it perfectly as you want.</p>
+                    </div>
+                </div><!-- end col -->
+                <div class="col-md-4">
+                    <div class="services-inner-box">
+                        <div class="ser-icon">
+                            <i class="flaticon-development"></i>
+                        </div>
+                        <h2>Machine Learning</h2>
+                        <p>Give me the data, I will make it tell a story for you. Any works related to machine learning will be okey.</p>
+                    </div>
+                </div><!-- end col -->
+                <div class="col-md-4">
+                    <div class="services-inner-box">
+                        <div class="ser-icon">
+                            <i class="flaticon-process"></i>
+                        </div>
+                        <h2>Hacking and Security</h2>
+                        <p>Need any help relating to hacking or your security? Our team will be more than happy to do it.</p>
+                    </div>
+                </div><!-- end col -->
+                
+                <div class="col-md-4">
+                    <div class="services-inner-box">
+                        <div class="ser-icon">
+                            <i class="flaticon-idea"></i>
+                        </div>
+                        <h2>Creative Idea?</h2>
+                        <p>Any creative or great idea? Let us make it happen. We can do something together.</p>
+                    </div>
+                </div><!-- end col -->
+                <div class="col-md-4">
+                    <div class="services-inner-box">
+                        <div class="ser-icon">
+                            <i class="flaticon-idea-1"></i>
+                        </div>
+                        <h2>Physics?</h2>
+                        <p>Any idea involving physics? Let us change it into reality.</p>
+                    </div>
+                </div><!-- end col -->
+                <div class="col-md-4">
+                    <div class="services-inner-box">
+                        <div class="ser-icon">
+                            <i class="flaticon-discuss-issue"></i>
+                        </div>
+                        <h2>Support</h2>
+                        <p>Support me and my team by donating for our great work to continue.</p>
+                    </div>
+                </div><!-- end col -->
+            </div>
+        </div>
