@@ -2476,7 +2476,7 @@ select.mobile-device {
 .progressbar {
            background-color: #000000;
            border-radius: 19px;
-           width: 400px;
+           width: 90%;
            height: 30px;
            /* (height of inner div) / 2 + padding */
            padding: 2px;
